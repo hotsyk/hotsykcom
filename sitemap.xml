@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://hotsyk.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://hotsyk.com/</loc>
+</url>
+<url>
+<loc>https://hotsyk.com/millennials-2.html</loc>
+<lastmod>2025-01-22T20:40:42-08:00</lastmod>
+<image:image>
+<image:loc>https://hotsyk.com/media/posts/3/photo-1580855014124-d1e9d454c6b1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://hotsyk.com/solar-eclipse-glasses.html</loc>
+<lastmod>2025-01-22T20:41:28-08:00</lastmod>
+<image:image>
+<image:loc>https://hotsyk.com/media/posts/1/photo-1503357479842-6189d25e869a.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

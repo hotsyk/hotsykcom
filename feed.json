@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "blog@hotsyk",
+    "description": "",
+    "home_page_url": "https://hotsyk.com",
+    "feed_url": "https://hotsyk.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Volodymyr Hotsyk"
+    },
+    "items": [
+        {
+            "id": "https://hotsyk.com/millennials-2.html",
+            "url": "https://hotsyk.com/millennials-2.html",
+            "title": "Millennials",
+            "summary": "Millennials are killing everythingIf you are reading news headlines, that wouldn’t surprise you, that millennials are actually serial killers. They have already killed many things&hellip;",
+            "content_html": "\n  <p>\n    <h2 id=\"millennials-are-killing-everything\">Millennials are killing everything</h2><p>If you are reading news headlines, that wouldn’t surprise you, that millennials are actually serial killers.</p><p>They have already killed many things and are killing even more.</p><p>I thought of this recently, procrastinating, as usual, instead of preparing to this talk. I’ve tried to count all the things millennials killed (or killing them right now) since 2016. (And I took this year as it becomes a year people started to notice. Nobody knows how many things were defeated by them before!)</p><p>More than 400 things, business, habits, industries have been killed since that time. Just reading all the names would take much longer than we’ve allowed staying in this restaurant.</p><p>So, I will just name a few.</p><p>2016 is the year, people become aware. In the article on June 30, The Economist tried to alert people, that millennials killing diamonds, refusing to pay a ton of money for crystals, mined by big corporations in illegal mines of Africa. Millennials decided to go with artificial diamonds or without diamonds at all. But most of the people didn’t see that as the problem. They laughed about that article. They didn’t understand another problem coming from this one. By refusing to buy diamonds, millennials also refused to go deep into debts, killing credit cards on their way.</p><p>To go under one’s breath, millennials switched to smaller things to kill. They killed paper napkins by using towels. Then they tried to kill plastic straws. They weren’t successful on the first run, but as we see now, they are progressing in this fight.</p><p>Government, police, and makers of the DUI devices were among those who were hit at most. A significant income share was effectively killed by millennials, who started using Lyft and Uber to avoid getting DUI.</p><p>Personal relationships and habits also weren’t left alone. Millennials started with dating, changing an old good way of meeting somebody in a bar to the process of swiping left and right. Then they started to stay longer dating, delaying getting married, buying houses, and even avoiding divorces! Just think of the huge income drop for all the people in real estate, wedding, and divorce layers industries.</p><p>I can add more examples, like Big Mac, Applebees, Travel agents, Cars, Brunches, Home Depo, even Handshakes!</p><p>But I think it is clear for you now that millennials are killing <strong>everything.</strong></p>\n  </p>",
+            "image": "https://hotsyk.com/media/posts/3/photo-1580855014124-d1e9d454c6b1.jpg",
+            "author": {
+                "name": "Volodymyr Hotsyk"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-06T20:40:00-07:00",
+            "date_modified": "2025-01-22T20:40:42-08:00"
+        },
+        {
+            "id": "https://hotsyk.com/solar-eclipse-glasses.html",
+            "url": "https://hotsyk.com/solar-eclipse-glasses.html",
+            "title": "Solar eclipse",
+            "summary": "This story happened to me about 2 years ago, in August 2017, when America was waiting for the full solar eclipse. I was thrilled about&hellip;",
+            "content_html": "<p>This story happened to me about 2 years ago, in August 2017, when America was waiting for the full solar eclipse. I was thrilled about the possibility to see it in my own eyes. I decided to take a trip to Oregon, where the closest spot with full eclipse visible was.</p><p>Day of the eclipse was Monday. I planned to drive Sunday to Oregon’s border, stay for a night in a hotel, and starting at 5 am Monday, drive to the spot where full eclipse will be visible.</p><p>So, I arranged the day off at my work for the day of the eclipse. Booked the hotel. I filled my car with the gas. Got snacks and water. Created a playlist for such a long road trip. And finally, I realized, I am missing one thing. Eclipse glasses.</p><p>What could be easier to find eclipse glasses a couple days before the eclipse, you might ask. That what I was thinking. I couldn’t be more wrong. I’d checked all Bay Area. I was in San Jose. In San Francisco. In Mountain View. In Oakland. Eclipse glasses were sold out everywhere.</p><p>Sunday came, and I need to start my road trip. I’d checked the internet, and there was news that gas stations in Oregon have eclipse glasses and giving them for free to customers. So, I’d decided to start the trip and look for eye protection along the road. I think I shouldn’t say that I hadn’t found glasses in any of them. All gone. In the town I was staying for a night, I rechecked local coffee houses, gas station, shops, and markets which were said to have glasses. All gone.</p><p>I had my polarized sunglasses with me and a polarized filter for the camera. So, as a final decision, I’d decided to continue my trip anyway, using this combination of polarized glasses when possible and waiting for the time of the full eclipse, when eye protection is not needed.</p><p>So, I continued driving and came to my destination - southmost town in Oregon, which was in the full eclipse trajectory. I’d stopped there, near about ten local people who were sitting in their chairs and were waiting for the eclipse.</p><p>Partial Eclipse started. I was staying aside, trying to look via my self-made combination of polarized glasses and not to hurt my eyes at the same time.</p><p>I think, people who were nearby realized what I am doing. A woman shouted to me: “Do you need eclipse glasses? We have a spare one.</p>",
+            "image": "https://hotsyk.com/media/posts/1/photo-1503357479842-6189d25e869a.jpg",
+            "author": {
+                "name": "Volodymyr Hotsyk"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-10T20:23:00-07:00",
+            "date_modified": "2025-01-22T20:41:28-08:00"
+        }
+    ]
+}
